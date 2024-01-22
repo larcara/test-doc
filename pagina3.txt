@@ -1,2 +1,10 @@
 è su una branch nata da devel
-Ma c'è un hotfix da RC a Master
+
+Feature A
+
+asddasd
+sad
+sadsad
+sadsad
+
+Feature B
