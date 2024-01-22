@@ -2,11 +2,13 @@
 
 Feature A
 
-fare primma
-step B
-steps A
-e sollo alla fine
+è necessario eseguire gli step in questo ordine:
 
-step "C"
+- step "B"
+- steps "A"
+
+NB: come ultimo 
+
+- step "C"
 
 Feature B
