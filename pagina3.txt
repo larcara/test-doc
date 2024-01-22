@@ -2,8 +2,11 @@
 
 Feature A
 
-B
-A
-C
+fare primma
+step B
+steps A
+e sollo alla fine
+
+step "C"
 
 Feature B
