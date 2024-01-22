@@ -3,8 +3,14 @@ ATTENZIONE
 
 
 Feature A
-dasdsda
-dasdsdadas
 
+è necessario eseguire gli step in questo ordine:
+
+- step "B"
+- steps "A"
+
+NB: come ultimo 
+
+- step "C"
 
 Feature B
